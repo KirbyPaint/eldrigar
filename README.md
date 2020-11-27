@@ -15,6 +15,13 @@ _The purpose of this website is to be a central location for our current party m
 ## Known Bugs
 
 _Not even close to a finished site. There are probably bugs._
+_You can access the site here: https://kirbypaint.github.io/eldrigar/_
+
+_The attached PDF has a notable bug in the Skills portion. If a skill has no points placed, please enter a 0 in that field._
+_The current code adds the fields across; however, if a field is blank, it will concatenate the fields as STRINGS instead of INTEGERS._
+_This means that the numbers get stacked together in a row, instead of added together properly._
+_Example: A skill with no points value entered, plus a modifier of '2', plus a miscellaneous bonus of '0', will read literally as ' 20' instead of adding nothing, plus two, plus zero._
+_I am pretty sure the Saving Throws also do this sometimes._
 
 ## Support and contact details
 
@@ -26,7 +33,7 @@ _HTML, CSS (Bootstrap), Moria Citadel font by Russ Herschler_
 
 ### License Information
 
-*GNU Public License*
-*Moria Citadel font by Russ Herschler: https://www.dafont.com/moria-citadel.font*
+_GNU Public License_
+_Moria Citadel font by Russ Herschler: https://www.dafont.com/moria-citadel.font_
 
 Copyright (c) 2020 **_KirbyPaint_**
