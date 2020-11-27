@@ -13,7 +13,7 @@ h2 {
 }
 
 p {
-
+  padding-left: 31%;
 }
 
 a:link {
@@ -29,4 +29,5 @@ a:visited {
   float: left;
   background-color: rgb(167, 143, 111);
   border-radius: 25px;
+  padding: 10px;
 }
