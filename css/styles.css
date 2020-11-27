@@ -31,3 +31,9 @@ a:visited {
   border-radius: 25px;
   padding: 10px;
 }
+
+.li-important {
+  color: brown;
+  font-weight: bold;
+  text-decoration: underline;
+}
