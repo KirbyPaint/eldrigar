@@ -1,0 +1,23 @@
+body {
+  background-color: tan;
+  padding: 30px;
+}
+
+p {
+  margin-left: 15%;
+  margin-right: 5%;
+}
+
+a:link {
+  color: brown;
+}
+
+a:visited {
+  color: maroon;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: rgb(167, 143, 111);
+}
