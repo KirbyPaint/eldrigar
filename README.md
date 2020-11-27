@@ -15,6 +15,7 @@ _The purpose of this website is to be a central location for our current party m
 ## Known Bugs
 
 _Not even close to a finished site. There are probably bugs._
+_See site here: https://kirbypaint.github.io/eldrigar/_
 
 ## Support and contact details
 
