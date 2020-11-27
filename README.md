@@ -15,9 +15,6 @@ _The purpose of this website is to be a central location for our current party m
 ## Known Bugs
 
 _Not even close to a finished site. There are probably bugs._
-<<<<<<< HEAD
-_See site here: https://kirbypaint.github.io/eldrigar/_
-=======
 _You can access the site here: https://kirbypaint.github.io/eldrigar/_
 
 _The attached PDF has a notable bug in the Skills portion. If a skill has no points placed, please enter a 0 in that field._
@@ -25,7 +22,6 @@ _The current code adds the fields across; however, if a field is blank, it will 
 _This means that the numbers get stacked together in a row, instead of added together properly._
 _Example: A skill with no points value entered, plus a modifier of '2', plus a miscellaneous bonus of '0', will read literally as ' 20' instead of adding nothing, plus two, plus zero._
 _I am pretty sure the Saving Throws also do this sometimes._
->>>>>>> gh-pages
 
 ## Support and contact details
 
