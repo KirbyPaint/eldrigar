@@ -14,8 +14,8 @@ _The purpose of this website is to be a central location for our current party m
 
 ## Known Bugs
 
-_Not even close to a finished site. There are probably bugs._
-_You can access the site here: https://kirbypaint.github.io/eldrigar/_
+Not even close to a finished site. There are probably bugs.\
+You can access the site here: https://kirbypaint.github.io/eldrigar/ \
 
 _The attached PDF has a notable bug in the Skills portion. If a skill has no points placed, please enter a 0 in that field._
 _The current code adds the fields across; however, if a field is blank, it will concatenate the fields as STRINGS instead of INTEGERS._
