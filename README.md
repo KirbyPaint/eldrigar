@@ -1,20 +1,20 @@
-# _TEMPLATE_
+# _D&D Central_
 
-#### _Practice website to TEMPLATE, 2020-10-27_
+#### _Website to host our current campaigns._
 
 #### By _**Ash Porter (KirbyPaint)**_
 
 ## Description
 
-_The purpose of this TEMPLATE_
+_The purpose of this website is to be a central location for our current party members to access resources. This is intended to supplement our Discord channel._
 
 ## Setup/Installation Requirements
 
-* _REQUIREMENTS_
+* _Please use either a currently updated Firefox or Chrome web browser._
 
 ## Known Bugs
 
-_Currently none_
+_Not even close to a finished site. There are probably bugs._
 
 ## Support and contact details
 
@@ -22,10 +22,11 @@ _Discord: @KirbyPaint#0751_
 
 ## Technologies Used
 
-_LANGUAGES_
+_HTML, CSS (Bootstrap), Moria Citadel font by Russ Herschler_
 
-### License
+### License Information
 
 *GNU Public License*
+*Moria Citadel font by Russ Herschler: https://www.dafont.com/moria-citadel.font*
 
 Copyright (c) 2020 **_KirbyPaint_**
